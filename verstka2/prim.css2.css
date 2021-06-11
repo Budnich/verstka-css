@@ -1,0 +1,44 @@
+
+body { 
+    background: url('../images/fon.jpg') no-repeat; 
+	background-size: 100%;
+	font-size: 24px;
+	color: white;
+   }
+   
+h1 { font-size: 24px; }
+h2 { font-size: 24pt; }
+
+p {
+    font-weight: 600; 
+    line-height: 1.2; 
+    font-size: 1.5em;
+    margin-left: 30mm;
+   }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #41AEDC;
+}
+
+li { float: left; }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FD9C10;
+}
+
+table {
+    width: 100%; 
+    background: #83B9E0; 
+   }
